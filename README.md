@@ -5,7 +5,7 @@
 # BaseCode Studio
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+clean%2C+high-quality+scripts.;Lua+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+MySQL;Open+source+%E2%80%A2+Built+with+precision." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Lua;JavaScript;TypeScript;MySQL;CSS3" alt="Typing SVG" />
 </p>
 
 ---
