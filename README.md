@@ -23,23 +23,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/BaseCodeStudio/BaseCodeStudio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BaseCodeStudio&repo=BaseCodeStudio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <!-- Add another pinned repo here -->
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <p>
